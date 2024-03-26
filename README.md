@@ -2,7 +2,7 @@
 
 ## Web Application started @2023 
 
-
+- [ ] Created
 
 Oako Ai is a web application designed W/ AI technology.
 
